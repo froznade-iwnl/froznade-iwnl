@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an app to help students with DSA!<br>🌱 I’m currently preparing for Swift Associate Certification.<br>⚡ An energetic student, ready to learn!<br>----------------------------------------------------------<br>Past Projects:<br>1. [HalalSG](https://github.com/froznade-iwnl/halal-food-finder) -- Help people in Singapore to find Halal Food near them<br>2. [Flow](https://github.com/froznade-iwnl/flow-version-two) -- Keep track of your mental health and find articles about it<br>
+🔭 I’m currently working on an app to help students with DSA!<br>🥉 Bronze Awards in the 26th National Olympiad Informatics 2023 <br>🎓 Class of 2022 of the Swift Accelerator Programme<br>🌱 I’m currently preparing for Swift Associate Certification.<br>⚡ An energetic student, ready to learn! <br>----------------------------------------------------------<br>Past Projects:<br>1. [HalalSG](https://github.com/froznade-iwnl/halal-food-finder) -- Help people in Singapore to find Halal Food near them<br>2. [Flow](https://github.com/froznade-iwnl/flow-version-two) -- Keep track of your mental health and find articles about it<br>
 
 
 ## 🌐 Socials:
